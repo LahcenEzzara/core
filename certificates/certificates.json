@@ -1,0 +1,14 @@
+{
+  "certificates": [
+    {
+      "name": "Python",
+      "issuingOrganization": "One Month",
+      "issueDate": "24 October 2023",
+      "expirationDate": "None",
+      "credentialID": "None",
+      "credentialURL": "https://onemonth.com/courses/python/curriculum",
+      "skills": ["Python"],
+      "media": "https://onemonth.com/courses/python/curriculum"
+    }
+  ]
+}
